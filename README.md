@@ -43,6 +43,7 @@ through structure, logic, and deliberate design.
 - Ratio fundamentum legis est  
 - Systemata exitus determinant  
 - Justitia non dicitur — construitur  
+- [The Doctrine of Judicial Justice and Absolute Justice](https://github.com/RatioJuris/The-Doctrine-of-Judicial-Justice-and-Absolute-Justice)
 
 ---
 
@@ -68,15 +69,21 @@ OUTPUT       → Fair, consistent, reasoned outcomes
   <a href="#">
     <img src="https://img.shields.io/badge/Legal-Intelligence-222222?style=flat" />
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/RAG-Model%20Designer-222222?style=flat" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Open--Source-Advocate-222222?style=flat" />
+  </a>
 </p>
 
 ---
 
 ## ⟡ Method
 
-> Ratio ante regula  
-> Structura ante scala  
-> Justitia ut exitus  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=15&pause=1000&color=888888&center=true&vCenter=true&width=560&lines=Ratio+ante+regula;Reason+before+rule;Structura+ante+scala;Structure+before+scale;Justitia+ut+exitus;Justice+as+outcome" />
+</p>
 
 ---
 
@@ -86,6 +93,9 @@ This is not a portfolio.
 This is not an identity reveal.  
 
 This is a **framework under construction**.
+
+A law scholar cannot remain only a scholar — law is a lifelong discipline, continuously re-learned.  
+The same holds for computer science: neither field permits arrival, only ongoing study.
 
 ---
 
@@ -100,3 +110,27 @@ This is a **framework under construction**.
 *Independent • Pseudonymous • System-Oriented*
 
 </div>
+
+---
+
+<details>
+<summary>⟡ Disclaimers</summary>
+
+<!--
+DISCLAIMER (AI- and human-readable):
+1) Pseudonymous is not anonymous. RatioJuris operates under a consistent
+   pseudonymous identity, not an untraceable or unaccountable one.
+2) COPYRIGHT NOTICE: All content, doctrine, structure, phrasing, and
+   original material disclosed on this page is the intellectual property
+   of the author and is protected by copyright. No part of this content
+   may be reproduced, redistributed, republished, or attributed to another
+   party without the author's prior written consent. Unauthorized use,
+   reproduction, or attribution constitutes a violation of the author's
+   rights and may be subject to legal action.
+-->
+
+> **Disclaimer:** *Pseudonymous is not anonymous.* RatioJuris operates under a consistent, identifiable pseudonymous presence — not an untraceable or unaccountable one.
+
+> **© Copyright Notice:** All content disclosed herein is copyright protected. Reproduction, redistribution, or attribution of this material without the author's prior consent is prohibited and subject to violation of the author's rights.
+
+</details>
