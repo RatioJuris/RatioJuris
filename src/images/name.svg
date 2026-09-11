@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 1200 450"
+     viewBox="0 0 1200 240"
      width="100%"
-     height="100%"
+     height="auto"
+     preserveAspectRatio="xMidYMid meet"
      role="img"
      aria-labelledby="title desc">
 
@@ -100,16 +101,14 @@
     }
   </style>
 
-  <!-- Matrix Grid -->
+  <!-- Matrix Grid Fitted to Tight Height -->
   <g aria-hidden="true">
-    <line class="grid-line" x1="0" y1="225" x2="1200" y2="225"/>
-    <line class="grid-line" x1="600" y1="0" x2="600" y2="450"/>
-    <circle cx="600" cy="225" r="180" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.03"/>
-    <circle cx="600" cy="225" r="320" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.02"/>
+    <line class="grid-line" x1="0" y1="120" x2="1200" y2="120"/>
+    <line class="grid-line" x1="600" y1="0" x2="600" y2="240"/>
   </g>
 
   <!-- Central Stage -->
-  <g transform="translate(600, 225)">
+  <g transform="translate(600, 120)">
 
     <!-- Card 1: RatioJuris -->
     <text x="0" y="0" class="geo-text size-large" aria-label="RatioJuris">
@@ -178,26 +177,26 @@
     </text>
   </g>
 
-  <!-- Particle Bursts Centered at (600, 225) -->
+  <!-- Particle Bursts Centered at (600, 120) -->
   <!-- Burst 1 -->
-  <g transform="translate(600, 225)" filter="url(#particleGlow)" opacity="0" aria-hidden="true">
+  <g transform="translate(600, 120)" filter="url(#particleGlow)" opacity="0" aria-hidden="true">
     <circle cx="-50" cy="-25" r="8" fill="#ff6600"/>
     <circle cx="60" cy="25" r="6" fill="#10b981"/>
     <rect x="-120" y="5" width="10" height="10" fill="#ff6600" transform="rotate(45 -115 10)"/>
     <rect x="120" y="-45" width="12" height="12" fill="#10b981" transform="rotate(15 126 -39)"/>
-    <circle cx="0" cy="-115" r="5" fill="#ff6600"/>
-    <circle cx="0" cy="115" r="7" fill="#10b981"/>
+    <circle cx="0" cy="-75" r="5" fill="#ff6600"/>
+    <circle cx="0" cy="75" r="7" fill="#10b981"/>
 
     <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.32;1" dur="6s" repeatCount="indefinite"/>
     <animateTransform attributeName="transform" type="scale" additive="sum" values="0.7; 1.35" dur="1.92s" repeatCount="indefinite"/>
   </g>
 
   <!-- Burst 2 -->
-  <g transform="translate(600, 225)" filter="url(#particleGlow)" opacity="0" aria-hidden="true">
-    <circle cx="-80" cy="-55" r="7" fill="#10b981"/>
+  <g transform="translate(600, 120)" filter="url(#particleGlow)" opacity="0" aria-hidden="true">
+    <circle cx="-80" cy="-45" r="7" fill="#10b981"/>
     <circle cx="80" cy="35" r="9" fill="#ec4899"/>
-    <rect x="30" y="85" width="11" height="11" fill="#10b981" transform="rotate(30 35.5 90.5)"/>
-    <rect x="-60" y="-95" width="9" height="9" fill="#ec4899" transform="rotate(60 -55.5 -90.5)"/>
+    <rect x="30" y="65" width="11" height="11" fill="#10b981" transform="rotate(30 35.5 70.5)"/>
+    <rect x="-60" y="-65" width="9" height="9" fill="#ec4899" transform="rotate(60 -55.5 -60.5)"/>
     <circle cx="-140" cy="-5" r="6" fill="#10b981"/>
     <circle cx="140" cy="-15" r="5" fill="#ec4899"/>
 
@@ -206,13 +205,13 @@
   </g>
 
   <!-- Burst 3 -->
-  <g transform="translate(600, 225)" filter="url(#particleGlow)" opacity="0" aria-hidden="true">
+  <g transform="translate(600, 120)" filter="url(#particleGlow)" opacity="0" aria-hidden="true">
     <circle cx="-40" cy="15" r="6" fill="#ec4899"/>
     <circle cx="40" cy="-45" r="8" fill="#ff6600"/>
-    <rect x="70" y="65" width="12" height="12" fill="#ec4899" transform="rotate(20 76 71)"/>
-    <rect x="-90" y="-75" width="8" height="8" fill="#ff6600" transform="rotate(75 -86 -71)"/>
-    <circle cx="0" cy="-145" r="7" fill="#ec4899"/>
-    <circle cx="0" cy="145" r="6" fill="#ff6600"/>
+    <rect x="70" y="55" width="12" height="12" fill="#ec4899" transform="rotate(20 76 61)"/>
+    <rect x="-90" y="-55" width="8" height="8" fill="#ff6600" transform="rotate(75 -86 -51)"/>
+    <circle cx="0" cy="-85" r="7" fill="#ec4899"/>
+    <circle cx="0" cy="85" r="6" fill="#ff6600"/>
 
     <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.666;0.716;0.88;0.98" dur="6s" repeatCount="indefinite"/>
     <animateTransform attributeName="transform" type="scale" additive="sum" values="0.7; 1.35" begin="4s" dur="1.92s" repeatCount="indefinite"/>
