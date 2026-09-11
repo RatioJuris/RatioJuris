@@ -1,6 +1,18 @@
 <div align="center">
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=700&pause=1200&color=000000&center=true&vCenter=true&width=600&lines=RatioJuris;Isrg%20Rajan;Ronav%20Isrgrajan%20Narayandas" /></a>
+
+
+<a href="#">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=700&pause=1200&color=000000&center=true&vCenter=true&width=600&lines=RatioJuris;Isrg%20Rajan;Ronav%20Isrgrajan%20Narayandas" />
+</a>
+
+<br>
+
+<a href="#">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=900&pause=1200&color=777777&center=true&vCenter=true&width=600&lines=Ratio+ante+Regula;Structura+ante+Scala;Justitia+per+Systema;Lex+per+Logicam" />
+</a>
+
+
 
 
 ### *The Logic of Law*
