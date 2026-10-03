@@ -26,8 +26,7 @@ Systems without justice become control.
 - *Ratio fundamentum legis est* — Reason is the foundation of law.
 - *Systemata exitus determinant* — Systems determine outcomes.
 - *Justitia non dicitur — construitur* — Justice is not merely declared; it is constructed.
-
-[**The Doctrine of Judicial Justice and Absolute Justice**](https://github.com/RatioJuris/The-Doctrine-of-Judicial-Justice-and-Absolute-Justice)
+- *[**The Doctrine of Judicial Justice and Absolute Justice**](https://github.com/RatioJuris/The-Doctrine-of-Judicial-Justice-and-Absolute-Justice)*
 
 ---
 
