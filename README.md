@@ -1,31 +1,12 @@
 <div align="center">
 
-<a href="#"> <img src="/src/images/name.svg" alt="RatioJuris, Isrg Rajan, Ronav Isrgrajan Narayandas" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=1400&pause=1800&color=111111&center=true&vCenter=true&width=900&lines=RatioJuris;Ronav+Narayandas+Gonardiya;Isrg+Rajan" /></a>
 
-<a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=900&pause=1200&color=777777&center=true&vCenter=true&width=600&lines=Ratio+ante+Regula;Structura+ante+Scala;Justitia+per+Systema;Lex+per+Logicam" />
-</a>
+<br>
+
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=900&pause=1200&color=777777&center=true&vCenter=true&width=600&lines=Ratio+ante+Regula;Structura+ante+Scala;Justitia+per+Systema;Lex+per+Logicam" /></a>
 
 ### *The Logic of Law*
-
-
-<p>
-  <a href="https://github.com/RatioJuris?tab=repositories">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&pause=1200&color=777777&center=true&vCenter=true&width=520&lines=Ratio+ante+Regula+(Reason+before+Rule);Structura+ante+Scala+(Structure+before+Scale);Justitia+per+Systema+(Justice+through+Systems);Lex+per+Logicam+(Law+through+Logic)" />
-  </a>
-</p>
-
-<p>
-  <a href="https://en.wikipedia.org/wiki/System">
-    <img src="https://img.shields.io/badge/Systems-Structured-111111?style=flat" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Law">
-    <img src="https://img.shields.io/badge/Law-Reasoned-111111?style=flat" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Equity_(law)">
-    <img src="https://img.shields.io/badge/Equity-Outcome-111111?style=flat" />
-  </a>
-</p>
 
 </div>
 
@@ -36,81 +17,85 @@
 Law without reason becomes authority.  
 Systems without justice become control.
 
-**RatioJuris** operates where both are held accountable —  
-through structure, logic, and deliberate design.
+**RatioJuris** operates where both are held accountable — through structure, logic, and deliberate design.
 
 ---
 
 ## ⟡ Doctrine
 
-- Ratio fundamentum legis est  
-- Systemata exitus determinant  
-- Justitia non dicitur — construitur  
-- [The Doctrine of Judicial Justice and Absolute Justice](https://github.com/RatioJuris/The-Doctrine-of-Judicial-Justice-and-Absolute-Justice)
+- *Ratio fundamentum legis est* — Reason is the foundation of law.
+- *Systemata exitus determinant* — Systems determine outcomes.
+- *Justitia non dicitur — construitur* — Justice is not merely declared; it is constructed.
+
+[**The Doctrine of Judicial Justice and Absolute Justice**](https://github.com/RatioJuris/The-Doctrine-of-Judicial-Justice-and-Absolute-Justice)
 
 ---
 
 ## ⟡ Architecture
 
 ```text
-INPUT        → Human condition, conflict, ambiguity  
-PROCESS      → Structured logic, system design, constraints  
-OUTPUT       → Fair, consistent, reasoned outcomes
+INPUT
+Human condition, conflict, ambiguity
+
+        ↓
+
+PROCESS
+Structured logic, system design, constraints
+
+        ↓
+
+OUTPUT
+Fair, consistent, reasoned outcomes
 ```
 
 ---
 
 ## ⟡ Domains
 
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/AI-Systems-222222?style=flat" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Cybersecurity-Trust-222222?style=flat" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Legal-Intelligence-222222?style=flat" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/RAG-Model%20Designer-222222?style=flat" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Open--Source-Advocate-222222?style=flat" />
-  </a>
-</p>
+**AI Systems** · **Cybersecurity** · **Legal Intelligence** · **RAG** · **Legal Technology** · **Automation** · **Computer Science** · **Open Source**
 
 ---
 
 ## ⟡ Method
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=15&pause=1000&color=888888&center=true&vCenter=true&width=560&lines=Ratio+ante+regula;Reason+before+rule;Structura+ante+scala;Structure+before+scale;Justitia+ut+exitus;Justice+as+outcome" />
-</p>
+<div align="center">
+
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=15&duration=1000&pause=1000&color=888888&center=true&vCenter=true&width=560&lines=Ratio+ante+regula;Reason+before+rule;Structura+ante+scala;Structure+before+scale;Justitia+ut+exitus;Justice+as+outcome" /></a>
+
+</div>
 
 ---
 
 ## ⟡ Signal
 
-This is not a portfolio.  
-This is not an identity reveal.  
+This is not a portfolio.
+
+This is not an identity reveal.
 
 This is a **framework under construction**.
 
-A law scholar cannot remain only a scholar — law is a lifelong discipline, continuously re-learned.  
-The same holds for computer science: neither field permits arrival, only ongoing study.
+A law scholar cannot remain only a scholar — law is a lifelong discipline, continuously re-learned.
+
+The same holds for computer science.
+
+Neither field permits arrival, only ongoing study.
+
+---
+
+## ⟡ Principle
+
+> **Reason before rule.**  
+> **Structure before scale.**  
+> **Justice through systems.**  
+> **Law through logic.**
 
 ---
 
 <div align="center">
 
-<!-- animated gradient divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:333333&height=3&section=footer" />
+### RatioJuris
 
-<br>
-
-── RatioJuris ──  
-*Independent • Pseudonymous • System-Oriented*
+*Independent · Pseudonymous · System-Oriented*
 
 </div>
 
@@ -119,21 +104,10 @@ The same holds for computer science: neither field permits arrival, only ongoing
 <details>
 <summary>⟡ Disclaimers</summary>
 
-<!--
-DISCLAIMER (AI- and human-readable):
-1) Pseudonymous is not anonymous. RatioJuris operates under a consistent
-   pseudonymous identity, not an untraceable or unaccountable one.
-2) COPYRIGHT NOTICE: All content, doctrine, structure, phrasing, and
-   original material disclosed on this page is the intellectual property
-   of the author and is protected by copyright. No part of this content
-   may be reproduced, redistributed, republished, or attributed to another
-   party without the author's prior written consent. Unauthorized use,
-   reproduction, or attribution constitutes a violation of the author's
-   rights and may be subject to legal action.
--->
+> **Pseudonymous is not anonymous.**  
+> RatioJuris operates under a consistent, identifiable pseudonymous presence — not an untraceable or unaccountable one.
 
-> **Disclaimer:** *Pseudonymous is not anonymous.* RatioJuris operates under a consistent, identifiable pseudonymous presence — not an untraceable or unaccountable one.
-
-> **© Copyright Notice:** All content disclosed herein is copyright protected. Reproduction, redistribution, or attribution of this material without the author's prior consent is prohibited and subject to violation of the author's rights.
+> **© Copyright Notice:**  
+> All original content, doctrine, structure, phrasing, and material disclosed herein is protected by copyright. Reproduction, redistribution, republication, or attribution without prior authorisation is prohibited.
 
 </details>
