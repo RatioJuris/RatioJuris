@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=1400&pause=1800&color=111111&center=true&vCenter=true&width=900&lines=RatioJuris;Ronav+Narayandas+Gonardiya;Isrg+Rajan" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=1400&pause=1800&color=111111&center=true&vCenter=true&width=900&lines=RatioJuris;Isrgrajan+Gonardiya" /></a>
 
 <br>
 
