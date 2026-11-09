@@ -165,12 +165,20 @@ A calm, iOS-style Android gallery where locked photos still look like ordinary p
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td valign="top">
 
-**📚 [RefIndia](https://github.com/RatioJuris/RefIndia)**: citations for Indian law and academia  
-Cite Supreme Court judgments, Acts, books, articles and theses in ILI, OSCOLA, APA, Harvard, MLA, IEEE and Chicago. Real DOI and ISBN lookup, BibTeX/RIS conversion, and an Indian legal formatter for SCC, AIR and INSC citations. Runs entirely in the browser.
+**📚 [RefIndia](https://github.com/RatioJuris/RefIndia)**  
+Citations for Indian law and academia: SCC, AIR and INSC cases, Acts, books and articles in ILI, OSCOLA, APA, Harvard, MLA, IEEE and Chicago, with real DOI and ISBN lookup.
 
-<a href="https://ratiojuris.github.io/RefIndia/"><img src="https://img.shields.io/badge/Live-Open_RefIndia-c9a227?style=flat-square&labelColor=1d2540" alt="Open RefIndia"></a> <picture><img src="https://img.shields.io/badge/TypeScript-1d2540?style=flat-square&logo=typescript&logoColor=d4af37" alt="TypeScript"></picture> <picture><img src="https://img.shields.io/badge/React-1d2540?style=flat-square&logo=react&logoColor=d4af37" alt="React"></picture>
+<a href="https://ratiojuris.github.io/RefIndia/"><img src="https://img.shields.io/badge/Live-Open_RefIndia-c9a227?style=flat-square&labelColor=1d2540" alt="Open RefIndia"></a> <picture><img src="https://img.shields.io/badge/TypeScript-1d2540?style=flat-square&logo=typescript&logoColor=d4af37" alt="TypeScript"></picture>
+
+</td>
+<td valign="top">
+
+**🧹 [TeamViewer Cleanup Tool](https://github.com/RatioJuris/TeamViewer-Cleanup-Tool)**  
+Finds and removes everything TeamViewer leaves behind, for clean reinstalls and for making sure remote access is gone after a scam. Installer, MSI or portable.
+
+<a href="https://github.com/RatioJuris/TeamViewer-Cleanup-Tool/releases/latest"><img src="https://img.shields.io/github/v/release/RatioJuris/TeamViewer-Cleanup-Tool?style=flat-square&label=Download&labelColor=1d2540&color=c9a227" alt="Download"></a> <picture><img src="https://img.shields.io/github/stars/RatioJuris/TeamViewer-Cleanup-Tool?style=flat-square&labelColor=1d2540&color=c9a227" alt="Stars"></picture> <picture><img src="https://img.shields.io/badge/C%23-1d2540?style=flat-square&logo=dotnet&logoColor=d4af37" alt="C#"></picture>
 
 </td>
 </tr>
