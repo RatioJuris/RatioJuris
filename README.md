@@ -208,7 +208,7 @@ Neither field permits arrival, only ongoing study.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./src/images/signature-dark.svg">
-  <img alt="Isrgrajan Gonardiya" src="./src/images/signature-light.svg" width="360">
+  <img alt="Isrgrajan Gonardiya" src="./src/images/signature-light.svg" width="480">
 </picture>
 
 <sub><b>RatioJuris</b> · Independent · Pseudonymous · System-Oriented</sub>
