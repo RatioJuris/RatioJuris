@@ -164,6 +164,16 @@ A calm, iOS-style Android gallery where locked photos still look like ordinary p
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+**📚 [RefIndia](https://github.com/RatioJuris/RefIndia)**: citations for Indian law and academia  
+Cite Supreme Court judgments, Acts, books, articles and theses in ILI, OSCOLA, APA, Harvard, MLA, IEEE and Chicago. Real DOI and ISBN lookup, BibTeX/RIS conversion, and an Indian legal formatter for SCC, AIR and INSC citations. Runs entirely in the browser.
+
+<a href="https://ratiojuris.github.io/RefIndia/"><img src="https://img.shields.io/badge/Live-Open_RefIndia-c9a227?style=flat-square&labelColor=1d2540" alt="Open RefIndia"></a> <picture><img src="https://img.shields.io/badge/TypeScript-1d2540?style=flat-square&logo=typescript&logoColor=d4af37" alt="TypeScript"></picture> <picture><img src="https://img.shields.io/badge/React-1d2540?style=flat-square&logo=react&logoColor=d4af37" alt="React"></picture>
+
+</td>
+</tr>
 </table>
 
 <picture><img src="./src/images/divider.svg" width="100%" alt=""></picture>
