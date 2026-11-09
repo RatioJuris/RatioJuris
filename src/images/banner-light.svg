@@ -1,6 +1,6 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="title desc">
-  <title id="title">RatioJuris â€” The Logic of Law</title>
-  <desc id="desc">Classical banner with balanced scales of justice, flanking columns, and rotating Latin maxims.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 456" width="1200" height="456" role="img" aria-labelledby="title desc">
+  <title id="title">RatioJuris — The Logic of Law · Gonardiya</title>
+  <desc id="desc">Classical banner with balanced scales of justice, flanking columns, the Gonardiya hallmark, and rotating Latin maxims.</desc>
 
   <defs>
     <radialGradient id="bg" cx="50%" cy="40%" r="75%">
@@ -23,6 +23,20 @@
       <animateTransform attributeName="gradientTransform" type="translate"
         values="-700 0; 700 0; 700 0" keyTimes="0; 0.55; 1" dur="7s" repeatCount="indefinite"/>
     </linearGradient>
+
+    <linearGradient id="hallmarkShine" gradientUnits="userSpaceOnUse" x1="400" y1="0" x2="800" y2="0">
+      <stop offset="0%" stop-color="#8f6b12"/>
+      <stop offset="40%" stop-color="#8f6b12"/>
+      <stop offset="50%" stop-color="#e2c35a"/>
+      <stop offset="60%" stop-color="#8f6b12"/>
+      <stop offset="100%" stop-color="#8f6b12"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-480 0; -480 0; 480 0; 480 0" keyTimes="0; 0.35; 0.8; 1" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <filter id="hallmarkGlow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
   </defs>
 
   <style>
@@ -32,21 +46,22 @@
     .sub   { font-family: Georgia, "Times New Roman", Times, serif; font-size: 17px; letter-spacing: 9px; text-anchor: middle; fill: #1d2540; }
     .motto { font-family: Georgia, "Times New Roman", Times, serif; font-size: 19px; font-style: italic; text-anchor: middle; fill: #1d2540; }
     .trans { font-family: Georgia, "Times New Roman", Times, serif; font-size: 13px; letter-spacing: 4px; text-anchor: middle; fill: #5a6377; }
+    .hallmark { font-family: Georgia, "Times New Roman", Times, serif; font-size: 78px; font-style: italic; text-anchor: middle; }
   </style>
 
   <!-- Field and frame -->
-  <rect width="1200" height="360" fill="url(#bg)"/>
-  <rect x="14" y="14" width="1172" height="332" rx="4" class="line" stroke-width="1" opacity="0.55"/>
-  <rect x="22" y="22" width="1156" height="316" rx="2" class="line" stroke-width="0.6" opacity="0.3"/>
+  <rect width="1200" height="456" fill="url(#bg)"/>
+  <rect x="14" y="14" width="1172" height="428" rx="4" class="line" stroke-width="1" opacity="0.55"/>
+  <rect x="22" y="22" width="1156" height="412" rx="2" class="line" stroke-width="0.6" opacity="0.3"/>
   <g class="fill" opacity="0.8">
-    <path d="M14 180 l6 -6 l6 6 l-6 6 z"/>
-    <path d="M1174 180 l6 -6 l6 6 l-6 6 z"/>
+    <path d="M14 228 l6 -6 l6 6 l-6 6 z"/>
+    <path d="M1174 228 l6 -6 l6 6 l-6 6 z"/>
     <path d="M600 8 l6 6 l-6 6 l-6 -6 z"/>
-    <path d="M600 340 l6 6 l-6 6 l-6 -6 z"/>
+    <path d="M600 436 l6 6 l-6 6 l-6 -6 z"/>
   </g>
 
   <!-- Columns -->
-  <g id="column" class="line" stroke-width="1.4" opacity="0.5" transform="translate(140 0)">
+  <g id="column" class="line" stroke-width="1.4" opacity="0.5" transform="translate(140 48)">
     <path d="M-40 78 h80 M-36 84 h72"/>
     <rect x="-32" y="88" width="64" height="9"/>
     <rect x="-26" y="97" width="52" height="8"/>
@@ -94,25 +109,37 @@
     <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.4;1" dur="2s" fill="freeze"/>
   </g>
 
+  <!-- Hallmark: Gonardiya -->
+  <g opacity="0">
+    <text class="hallmark" x="600" y="334" fill="#8f6b12" opacity="0.3" filter="url(#hallmarkGlow)">Gonardiya</text>
+    <text class="hallmark" x="600" y="334" fill="url(#hallmarkShine)">Gonardiya</text>
+    <g transform="translate(806 280)">
+      <path fill="#e2c35a" d="M0 -11 C1.2 -2.4 2.4 -1.2 11 0 C2.4 1.2 1.2 2.4 0 11 C-1.2 2.4 -2.4 1.2 -11 0 C-2.4 -1.2 -1.2 -2.4 0 -11 Z">
+        <animateTransform attributeName="transform" type="scale" values="0;0;1;0.35;1;0.35" keyTimes="0;0.45;0.6;0.75;0.88;1" dur="5s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" dur="2.6s" fill="freeze"/>
+  </g>
+
   <!-- Rotating maxims -->
   <g opacity="0">
-    <text class="motto" x="600" y="290">Ratio ante regulam</text>
-    <text class="trans" x="600" y="312">REASON BEFORE RULE</text>
+    <text class="motto" x="600" y="388">Ratio ante regulam</text>
+    <text class="trans" x="600" y="410">REASON BEFORE RULE</text>
     <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.2;0.25;1" dur="12s" begin="0s" repeatCount="indefinite"/>
   </g>
   <g opacity="0">
-    <text class="motto" x="600" y="290">Structura ante scalam</text>
-    <text class="trans" x="600" y="312">STRUCTURE BEFORE SCALE</text>
+    <text class="motto" x="600" y="388">Structura ante scalam</text>
+    <text class="trans" x="600" y="410">STRUCTURE BEFORE SCALE</text>
     <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.2;0.25;1" dur="12s" begin="3s" repeatCount="indefinite"/>
   </g>
   <g opacity="0">
-    <text class="motto" x="600" y="290">Justitia per systema</text>
-    <text class="trans" x="600" y="312">JUSTICE THROUGH SYSTEMS</text>
+    <text class="motto" x="600" y="388">Justitia per systema</text>
+    <text class="trans" x="600" y="410">JUSTICE THROUGH SYSTEMS</text>
     <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.2;0.25;1" dur="12s" begin="6s" repeatCount="indefinite"/>
   </g>
   <g opacity="0">
-    <text class="motto" x="600" y="290">Lex per logicam</text>
-    <text class="trans" x="600" y="312">LAW THROUGH LOGIC</text>
+    <text class="motto" x="600" y="388">Lex per logicam</text>
+    <text class="trans" x="600" y="410">LAW THROUGH LOGIC</text>
     <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.2;0.25;1" dur="12s" begin="9s" repeatCount="indefinite"/>
   </g>
 </svg>
