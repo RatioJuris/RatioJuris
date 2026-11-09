@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c9a227" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#c9a227" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#c9a227" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="80" y="11.5" width="1040" height="1" fill="url(#fade)"/>
+  <path d="M600 4 l8 8 l-8 8 l-8 -8 z" fill="none" stroke="#c9a227" stroke-width="1.4"/>
+  <path d="M600 8.5 l3.5 3.5 l-3.5 3.5 l-3.5 -3.5 z" fill="#c9a227"/>
+  <circle cx="572" cy="12" r="1.8" fill="#c9a227"/>
+  <circle cx="628" cy="12" r="1.8" fill="#c9a227"/>
+</svg>

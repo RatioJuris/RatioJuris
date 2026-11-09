@@ -1,112 +1,231 @@
 <div align="center">
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=1400&pause=1800&color=111111&center=true&vCenter=true&width=900&lines=RatioJuris;Isrgrajan+Gonardiya" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./src/images/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./src/images/banner-light.svg">
+  <img alt="RatioJuris — The Logic of Law" src="./src/images/banner-dark.svg" width="100%">
+</picture>
 
 <br>
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=900&pause=1200&color=777777&center=true&vCenter=true&width=600&lines=Ratio+ante+Regula;Structura+ante+Scala;Justitia+per+Systema;Lex+per+Logicam" /></a>
-
-### *The Logic of Law*
+<img src="https://img.shields.io/badge/Independent-1d2540?style=flat-square" alt="Independent">
+<img src="https://img.shields.io/badge/Pseudonymous-1d2540?style=flat-square" alt="Pseudonymous">
+<img src="https://img.shields.io/badge/System--Oriented-1d2540?style=flat-square" alt="System-Oriented">
+<a href="https://github.com/RatioJuris?tab=followers"><img src="https://img.shields.io/github/followers/RatioJuris?style=flat-square&label=Followers&labelColor=1d2540&color=c9a227" alt="Followers"></a>
 
 </div>
 
----
+<img src="./src/images/divider.svg" width="100%" alt="">
 
-## ⟡ Position
+## § I — Position
 
-Law without reason becomes authority.  
-Systems without justice become control.
+> Law without reason becomes authority.  
+> Systems without justice become control.
 
-**RatioJuris** operates where both are held accountable — through structure, logic, and deliberate design.
+**RatioJuris** operates where both are held accountable: through structure, logic, and deliberate design.
 
----
+<img src="./src/images/divider.svg" width="100%" alt="">
 
-## ⟡ Doctrine
+## § II — Doctrine
 
-- *Ratio fundamentum legis est* — Reason is the foundation of law.
-- *Systemata exitus determinant* — Systems determine outcomes.
-- *Justitia non dicitur — construitur* — Justice is not merely declared; it is constructed.
-- *[**The Doctrine of Judicial Justice and Absolute Justice**](https://github.com/RatioJuris/The-Doctrine-of-Judicial-Justice-and-Absolute-Justice)*
+| Maxim | Meaning |
+| :--- | :--- |
+| *Ratio fundamentum legis est* | Reason is the foundation of law. |
+| *Systemata exitus determinant* | Systems determine outcomes. |
+| *Justitia non dicitur — construitur* | Justice is not merely declared; it is constructed. |
 
----
+📜 **Read the full doctrine →** [*The Doctrine of Judicial Justice and Absolute Justice*](https://github.com/RatioJuris/The-Doctrine-of-Judicial-Justice-and-Absolute-Justice)
 
-## ⟡ Architecture
+<img src="./src/images/divider.svg" width="100%" alt="">
 
-```text
-INPUT
-Human condition, conflict, ambiguity
+## § III — Architecture
 
-        ↓
-
-PROCESS
-Structured logic, system design, constraints
-
-        ↓
-
-OUTPUT
-Fair, consistent, reasoned outcomes
+```mermaid
+flowchart LR
+    A["<b>INPUT</b><br/>Human condition<br/>Conflict · Ambiguity"]
+    B["<b>PROCESS</b><br/>Structured logic<br/>System design · Constraints"]
+    C["<b>OUTPUT</b><br/>Fair · Consistent<br/>Reasoned outcomes"]
+    A ==> B ==> C
+    classDef rj fill:#0b1120,stroke:#d4af37,stroke-width:1.5px,color:#efe7d2
+    class A,B,C rj
+    linkStyle default stroke:#d4af37,stroke-width:2px
 ```
 
----
+<img src="./src/images/divider.svg" width="100%" alt="">
 
-## ⟡ Domains
-
-**AI Systems** · **Cybersecurity** · **Legal Intelligence** · **RAG** · **Legal Technology** · **Automation** · **Computer Science** · **Open Source**
-
----
-
-## ⟡ Method
+## § IV — Domains
 
 <div align="center">
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=15&duration=1000&pause=1000&color=888888&center=true&vCenter=true&width=560&lines=Ratio+ante+regula;Reason+before+rule;Structura+ante+scala;Structure+before+scale;Justitia+ut+exitus;Justice+as+outcome" /></a>
+<img src="https://img.shields.io/badge/AI_Systems-1d2540?style=for-the-badge" alt="AI Systems">
+<img src="https://img.shields.io/badge/Cybersecurity-1d2540?style=for-the-badge" alt="Cybersecurity">
+<img src="https://img.shields.io/badge/Legal_Intelligence-1d2540?style=for-the-badge" alt="Legal Intelligence">
+<img src="https://img.shields.io/badge/RAG-1d2540?style=for-the-badge" alt="RAG">
+<br>
+<img src="https://img.shields.io/badge/Legal_Technology-1d2540?style=for-the-badge" alt="Legal Technology">
+<img src="https://img.shields.io/badge/Automation-1d2540?style=for-the-badge" alt="Automation">
+<img src="https://img.shields.io/badge/Computer_Science-1d2540?style=for-the-badge" alt="Computer Science">
+<img src="https://img.shields.io/badge/Open_Source-1d2540?style=for-the-badge" alt="Open Source">
 
 </div>
 
----
+<img src="./src/images/divider.svg" width="100%" alt="">
 
-## ⟡ Signal
+## § V — Instruments
 
-This is not a portfolio.
+<div align="center">
 
-This is not an identity reveal.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,cs,py,ts,js,php,cpp,kotlin,html,css,powershell,bash&theme=dark">
+  <img alt="Languages" src="https://skillicons.dev/icons?i=java,cs,py,ts,js,php,cpp,kotlin,html,css,powershell,bash&theme=light">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nodejs,cloudflare,wordpress,linux,windows,git,github,vscode&theme=dark">
+  <img alt="Platforms and tools" src="https://skillicons.dev/icons?i=react,nodejs,cloudflare,wordpress,linux,windows,git,github,vscode&theme=light">
+</picture>
 
-This is a **framework under construction**.
+</div>
 
-A law scholar cannot remain only a scholar — law is a lifelong discipline, continuously re-learned.
+<img src="./src/images/divider.svg" width="100%" alt="">
 
-The same holds for computer science.
+## § VI — Selected Works
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⚖️ [The Doctrine of Judicial & Absolute Justice](https://github.com/RatioJuris/The-Doctrine-of-Judicial-Justice-and-Absolute-Justice)**  
+A doctrine defining absolute justice and its relationship with judicial justice.
+
+<img src="https://img.shields.io/badge/Jurisprudence-1d2540?style=flat-square" alt="Jurisprudence">
+
+</td>
+<td width="50%" valign="top">
+
+**📜 [OSJ Doctrine](https://github.com/RatioJuris/osj-doctrine)**  
+A statute-form manifesto arguing for citation-backed *proof-of-execution* over credentials and paid certificates.
+
+<img src="https://img.shields.io/badge/Doctrine-1d2540?style=flat-square" alt="Doctrine">
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**✒️ [PDF DSC-TSA Bulk Signer](https://github.com/RatioJuris/BulkFieldSignerGUI)**  
+Stamps a visible signature on selected pages and digitally secures the whole PDF in one step.
+
+<img src="https://img.shields.io/badge/Java-1d2540?style=flat-square&logo=openjdk&logoColor=d4af37" alt="Java">
+
+</td>
+<td valign="top">
+
+**🔏 [Bhartiya Sakshya Adhiniyam Hash](https://github.com/RatioJuris/Bhartiya-Sakshya-Adhiniyam-Hash-Online)**  
+Generates and compares SHA-256 / SHA-1 / MD5 evidence hashes, with signed PDF reports.
+
+<img src="https://img.shields.io/badge/HTML-1d2540?style=flat-square&logo=html5&logoColor=d4af37" alt="HTML">
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🖨️ [FS Legal-Size Scanner](https://github.com/RatioJuris/FS-Legal-Size-Scanner)**  
+Lets ordinary A4 flatbed scanners produce Foolscap / legal-size scans.
+
+<img src="https://img.shields.io/badge/Java-1d2540?style=flat-square&logo=openjdk&logoColor=d4af37" alt="Java">
+
+</td>
+<td valign="top">
+
+**📐 [AB Layout](https://github.com/RatioJuris/ab-layout)**  
+Advocate Benefit Layout for legal document formatting.
+
+<img src="https://img.shields.io/badge/JavaScript-1d2540?style=flat-square&logo=javascript&logoColor=d4af37" alt="JavaScript">
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🛡️ [Security Research](https://github.com/RatioJuris/security-research)**  
+Investigations into web security, digital forensics, and infrastructure vulnerabilities.
+
+<img src="https://img.shields.io/badge/Security-1d2540?style=flat-square" alt="Security">
+
+</td>
+<td valign="top">
+
+**🧹 [TeamViewer Cleanup Tool](https://github.com/RatioJuris/TeamViewer-Cleanup-Tool)**  
+Removes TeamViewer traces, logs, and registry entries for a clean reinstall.
+
+<img src="https://img.shields.io/badge/C%23-1d2540?style=flat-square&logo=dotnet&logoColor=d4af37" alt="C#"> <img src="https://img.shields.io/github/stars/RatioJuris/TeamViewer-Cleanup-Tool?style=flat-square&labelColor=1d2540&color=c9a227" alt="Stars">
+
+</td>
+</tr>
+</table>
+
+<img src="./src/images/divider.svg" width="100%" alt="">
+
+## § VII — The Record
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./src/cards/stats-dark.svg">
+  <img height="165" alt="GitHub stats" src="./src/cards/stats-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./src/cards/top-langs-dark.svg">
+  <img height="165" alt="Top languages" src="./src/cards/top-langs-light.svg">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RatioJuris&border_radius=6&background=0b1120&border=3a3320&stroke=3a3320&ring=d4af37&fire=d4af37&currStreakNum=efe7d2&sideNums=efe7d2&currStreakLabel=d4af37&sideLabels=efe7d2&dates=8e97ab">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=RatioJuris&border_radius=6&background=fbf8f1&border=e5dcc5&stroke=e5dcc5&ring=8f6b12&fire=8f6b12&currStreakNum=1d2540&sideNums=1d2540&currStreakLabel=8f6b12&sideLabels=1d2540&dates=5a6377">
+</picture>
+
+</div>
+
+<img src="./src/images/divider.svg" width="100%" alt="">
+
+## § VIII — Signal
+
+This is not a portfolio. It is a **framework under construction**.
+
+A scholar of law never ceases to be a student: law is a lifelong discipline, continuously re-learned.  
+The same holds for computer science.  
 Neither field permits arrival, only ongoing study.
 
----
-
-## ⟡ Principle
-
-> **Reason before rule.**  
-> **Structure before scale.**  
-> **Justice through systems.**  
-> **Law through logic.**
-
----
+<img src="./src/images/divider.svg" width="100%" alt="">
 
 <div align="center">
 
-### RatioJuris
+> **Reason before rule.** · **Structure before scale.** · **Justice through systems.** · **Law through logic.**
 
-*Independent · Pseudonymous · System-Oriented*
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./src/images/gonardiya-dark.png">
+  <img alt="Signature" src="./src/images/gonardiya.png" width="150">
+</picture>
+
+<sub><b>RatioJuris</b> · Independent · Pseudonymous · System-Oriented</sub>
 
 </div>
 
----
+<br>
 
 <details>
-<summary>⟡ Disclaimers</summary>
+<summary><b>⟡ Disclaimers</b></summary>
+
+<br>
 
 > **Pseudonymous is not anonymous.**  
-> RatioJuris operates under a consistent, identifiable pseudonymous presence — not an untraceable or unaccountable one.
+> RatioJuris operates under a consistent, identifiable pseudonymous presence, not an untraceable or unaccountable one.
 
-> **© Copyright Notice:**  
-> All original content, doctrine, structure, phrasing, and material disclosed herein is protected by copyright. Reproduction, redistribution, republication, or attribution without prior authorisation is prohibited.
+> **© Copyright Notice**  
+> All original content, doctrine, structure, and phrasing published here is protected by copyright. Reproduction, redistribution, or republication requires prior authorisation and must carry proper attribution to RatioJuris. This does not limit the rights GitHub's Terms of Service grant to view and fork public repositories.
 
 </details>
