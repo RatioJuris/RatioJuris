@@ -8,14 +8,14 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Independent-1d2540?style=flat-square" alt="Independent">
-<img src="https://img.shields.io/badge/Pseudonymous-1d2540?style=flat-square" alt="Pseudonymous">
-<img src="https://img.shields.io/badge/System--Oriented-1d2540?style=flat-square" alt="System-Oriented">
+<picture><img src="https://img.shields.io/badge/Independent-1d2540?style=flat-square" alt="Independent"></picture>
+<picture><img src="https://img.shields.io/badge/Pseudonymous-1d2540?style=flat-square" alt="Pseudonymous"></picture>
+<picture><img src="https://img.shields.io/badge/System--Oriented-1d2540?style=flat-square" alt="System-Oriented"></picture>
 <a href="https://github.com/RatioJuris?tab=followers"><img src="https://img.shields.io/github/followers/RatioJuris?style=flat-square&label=Followers&labelColor=1d2540&color=c9a227" alt="Followers"></a>
 
 </div>
 
-<img src="./src/images/divider.svg" width="100%" alt="">
+<picture><img src="./src/images/divider.svg" width="100%" alt=""></picture>
 
 ## § I — Position
 
@@ -24,7 +24,7 @@
 
 **RatioJuris** operates where both are held accountable: through structure, logic, and deliberate design.
 
-<img src="./src/images/divider.svg" width="100%" alt="">
+<picture><img src="./src/images/divider.svg" width="100%" alt=""></picture>
 
 ## § II — Doctrine
 
@@ -36,7 +36,7 @@
 
 📜 **Read the full doctrine →** [*The Doctrine of Judicial Justice and Absolute Justice*](https://github.com/RatioJuris/The-Doctrine-of-Judicial-Justice-and-Absolute-Justice)
 
-<img src="./src/images/divider.svg" width="100%" alt="">
+<picture><img src="./src/images/divider.svg" width="100%" alt=""></picture>
 
 ## § III — Architecture
 
@@ -51,25 +51,25 @@ flowchart LR
     linkStyle default stroke:#d4af37,stroke-width:2px
 ```
 
-<img src="./src/images/divider.svg" width="100%" alt="">
+<picture><img src="./src/images/divider.svg" width="100%" alt=""></picture>
 
 ## § IV — Domains
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI_Systems-1d2540?style=for-the-badge" alt="AI Systems">
-<img src="https://img.shields.io/badge/Cybersecurity-1d2540?style=for-the-badge" alt="Cybersecurity">
-<img src="https://img.shields.io/badge/Legal_Intelligence-1d2540?style=for-the-badge" alt="Legal Intelligence">
-<img src="https://img.shields.io/badge/RAG-1d2540?style=for-the-badge" alt="RAG">
+<picture><img src="https://img.shields.io/badge/AI_Systems-1d2540?style=for-the-badge" alt="AI Systems"></picture>
+<picture><img src="https://img.shields.io/badge/Cybersecurity-1d2540?style=for-the-badge" alt="Cybersecurity"></picture>
+<picture><img src="https://img.shields.io/badge/Legal_Intelligence-1d2540?style=for-the-badge" alt="Legal Intelligence"></picture>
+<picture><img src="https://img.shields.io/badge/RAG-1d2540?style=for-the-badge" alt="RAG"></picture>
 <br>
-<img src="https://img.shields.io/badge/Legal_Technology-1d2540?style=for-the-badge" alt="Legal Technology">
-<img src="https://img.shields.io/badge/Automation-1d2540?style=for-the-badge" alt="Automation">
-<img src="https://img.shields.io/badge/Computer_Science-1d2540?style=for-the-badge" alt="Computer Science">
-<img src="https://img.shields.io/badge/Open_Source-1d2540?style=for-the-badge" alt="Open Source">
+<picture><img src="https://img.shields.io/badge/Legal_Technology-1d2540?style=for-the-badge" alt="Legal Technology"></picture>
+<picture><img src="https://img.shields.io/badge/Automation-1d2540?style=for-the-badge" alt="Automation"></picture>
+<picture><img src="https://img.shields.io/badge/Computer_Science-1d2540?style=for-the-badge" alt="Computer Science"></picture>
+<picture><img src="https://img.shields.io/badge/Open_Source-1d2540?style=for-the-badge" alt="Open Source"></picture>
 
 </div>
 
-<img src="./src/images/divider.svg" width="100%" alt="">
+<picture><img src="./src/images/divider.svg" width="100%" alt=""></picture>
 
 ## § V — Instruments
 
@@ -87,7 +87,7 @@ flowchart LR
 
 </div>
 
-<img src="./src/images/divider.svg" width="100%" alt="">
+<picture><img src="./src/images/divider.svg" width="100%" alt=""></picture>
 
 ## § VI — Selected Works
 
@@ -98,7 +98,7 @@ flowchart LR
 **⚖️ [The Doctrine of Judicial & Absolute Justice](https://github.com/RatioJuris/The-Doctrine-of-Judicial-Justice-and-Absolute-Justice)**  
 A doctrine defining absolute justice and its relationship with judicial justice.
 
-<img src="https://img.shields.io/badge/Jurisprudence-1d2540?style=flat-square" alt="Jurisprudence">
+<picture><img src="https://img.shields.io/badge/Jurisprudence-1d2540?style=flat-square" alt="Jurisprudence"></picture>
 
 </td>
 <td width="50%" valign="top">
@@ -106,7 +106,7 @@ A doctrine defining absolute justice and its relationship with judicial justice.
 **📜 [OSJ Doctrine](https://github.com/RatioJuris/osj-doctrine)**  
 A statute-form manifesto arguing for citation-backed *proof-of-execution* over credentials and paid certificates.
 
-<img src="https://img.shields.io/badge/Doctrine-1d2540?style=flat-square" alt="Doctrine">
+<picture><img src="https://img.shields.io/badge/Doctrine-1d2540?style=flat-square" alt="Doctrine"></picture>
 
 </td>
 </tr>
@@ -116,7 +116,7 @@ A statute-form manifesto arguing for citation-backed *proof-of-execution* over c
 **✒️ [PDF DSC-TSA Bulk Signer](https://github.com/RatioJuris/BulkFieldSignerGUI)**  
 Stamps a visible signature on selected pages and digitally secures the whole PDF in one step.
 
-<img src="https://img.shields.io/badge/Java-1d2540?style=flat-square&logo=openjdk&logoColor=d4af37" alt="Java">
+<picture><img src="https://img.shields.io/badge/Java-1d2540?style=flat-square&logo=openjdk&logoColor=d4af37" alt="Java"></picture>
 
 </td>
 <td valign="top">
@@ -124,7 +124,7 @@ Stamps a visible signature on selected pages and digitally secures the whole PDF
 **🔏 [Bhartiya Sakshya Adhiniyam Hash](https://github.com/RatioJuris/Bhartiya-Sakshya-Adhiniyam-Hash-Online)**  
 Generates and compares SHA-256 / SHA-1 / MD5 evidence hashes, with signed PDF reports.
 
-<img src="https://img.shields.io/badge/HTML-1d2540?style=flat-square&logo=html5&logoColor=d4af37" alt="HTML">
+<picture><img src="https://img.shields.io/badge/HTML-1d2540?style=flat-square&logo=html5&logoColor=d4af37" alt="HTML"></picture>
 
 </td>
 </tr>
@@ -134,7 +134,7 @@ Generates and compares SHA-256 / SHA-1 / MD5 evidence hashes, with signed PDF re
 **🖨️ [FS Legal-Size Scanner](https://github.com/RatioJuris/FS-Legal-Size-Scanner)**  
 Lets ordinary A4 flatbed scanners produce Foolscap / legal-size scans.
 
-<img src="https://img.shields.io/badge/Java-1d2540?style=flat-square&logo=openjdk&logoColor=d4af37" alt="Java">
+<picture><img src="https://img.shields.io/badge/Java-1d2540?style=flat-square&logo=openjdk&logoColor=d4af37" alt="Java"></picture>
 
 </td>
 <td valign="top">
@@ -142,7 +142,7 @@ Lets ordinary A4 flatbed scanners produce Foolscap / legal-size scans.
 **📐 [AB Layout](https://github.com/RatioJuris/ab-layout)**  
 Advocate Benefit Layout for legal document formatting.
 
-<img src="https://img.shields.io/badge/JavaScript-1d2540?style=flat-square&logo=javascript&logoColor=d4af37" alt="JavaScript">
+<picture><img src="https://img.shields.io/badge/JavaScript-1d2540?style=flat-square&logo=javascript&logoColor=d4af37" alt="JavaScript"></picture>
 
 </td>
 </tr>
@@ -152,7 +152,7 @@ Advocate Benefit Layout for legal document formatting.
 **🛡️ [Security Research](https://github.com/RatioJuris/security-research)**  
 Investigations into web security, digital forensics, and infrastructure vulnerabilities.
 
-<img src="https://img.shields.io/badge/Security-1d2540?style=flat-square" alt="Security">
+<picture><img src="https://img.shields.io/badge/Security-1d2540?style=flat-square" alt="Security"></picture>
 
 </td>
 <td valign="top">
@@ -160,13 +160,13 @@ Investigations into web security, digital forensics, and infrastructure vulnerab
 **🌼 [Photos](https://github.com/RatioJuris/photos)**  
 A calm, iOS-style Android gallery where locked photos still look like ordinary pictures to everyone else. No account, no cloud, no tracking.
 
-<img src="https://img.shields.io/badge/Kotlin-1d2540?style=flat-square&logo=kotlin&logoColor=d4af37" alt="Kotlin"> <img src="https://img.shields.io/badge/Android_12+-1d2540?style=flat-square&logo=android&logoColor=d4af37" alt="Android 12+">
+<picture><img src="https://img.shields.io/badge/Kotlin-1d2540?style=flat-square&logo=kotlin&logoColor=d4af37" alt="Kotlin"></picture> <picture><img src="https://img.shields.io/badge/Android_12+-1d2540?style=flat-square&logo=android&logoColor=d4af37" alt="Android 12+"></picture>
 
 </td>
 </tr>
 </table>
 
-<img src="./src/images/divider.svg" width="100%" alt="">
+<picture><img src="./src/images/divider.svg" width="100%" alt=""></picture>
 
 ## § VII — Opus Quotidianum
 
@@ -181,7 +181,7 @@ A calm, iOS-style Android gallery where locked photos still look like ordinary p
 
 </div>
 
-<img src="./src/images/divider.svg" width="100%" alt="">
+<picture><img src="./src/images/divider.svg" width="100%" alt=""></picture>
 
 ## § VIII — Signal
 
@@ -191,7 +191,7 @@ A scholar of law never ceases to be a student: law is a lifelong discipline, con
 The same holds for computer science.  
 Neither field permits arrival, only ongoing study.
 
-<img src="./src/images/divider.svg" width="100%" alt="">
+<picture><img src="./src/images/divider.svg" width="100%" alt=""></picture>
 
 <div align="center">
 
