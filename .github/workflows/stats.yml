@@ -1,4 +1,4 @@
-name: Update README cards
+name: Update README snake
 
 on:
   schedule:
@@ -17,42 +17,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Stats card (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
         with:
-          card: stats
-          options: "username=${{ github.repository_owner }}&show_icons=true&border_radius=6&bg_color=0b1120&title_color=d4af37&text_color=efe7d2&icon_color=d4af37&border_color=3a3320"
-          path: src/cards/stats-dark.svg
-          token: ${{ secrets.GRS_TOKEN || secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            src/cards/snake-dark.svg?color_snake=#efe7d2&color_dots=#161f35,#4a3c14,#7a5c12,#b8902a,#f6e7b0
+            src/cards/snake-light.svg?color_snake=#1d2540&color_dots=#ebe5d6,#e8d79a,#d4af37,#a8841f,#6b4f0a
 
-      - name: Stats card (light)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: "username=${{ github.repository_owner }}&show_icons=true&border_radius=6&bg_color=fbf8f1&title_color=8f6b12&text_color=1d2540&icon_color=8f6b12&border_color=e5dcc5"
-          path: src/cards/stats-light.svg
-          token: ${{ secrets.GRS_TOKEN || secrets.GITHUB_TOKEN }}
-
-      - name: Top languages card (dark)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&border_radius=6&bg_color=0b1120&title_color=d4af37&text_color=efe7d2&border_color=3a3320"
-          path: src/cards/top-langs-dark.svg
-          token: ${{ secrets.GRS_TOKEN || secrets.GITHUB_TOKEN }}
-
-      - name: Top languages card (light)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&border_radius=6&bg_color=fbf8f1&title_color=8f6b12&text_color=1d2540&border_color=e5dcc5"
-          path: src/cards/top-langs-light.svg
-          token: ${{ secrets.GRS_TOKEN || secrets.GITHUB_TOKEN }}
-
-      - name: Commit cards
+      - name: Commit snake
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add src/cards/*.svg
-          git commit -m "Update README cards" || exit 0
+          git commit -m "Update README snake" || exit 0
           git push

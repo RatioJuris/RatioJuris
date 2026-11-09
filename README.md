@@ -157,10 +157,10 @@ Investigations into web security, digital forensics, and infrastructure vulnerab
 </td>
 <td valign="top">
 
-**🧹 [TeamViewer Cleanup Tool](https://github.com/RatioJuris/TeamViewer-Cleanup-Tool)**  
-Removes TeamViewer traces, logs, and registry entries for a clean reinstall.
+**🌼 [Photos](https://github.com/RatioJuris/photos)**  
+A calm, iOS-style Android gallery where locked photos still look like ordinary pictures to everyone else. No account, no cloud, no tracking.
 
-<img src="https://img.shields.io/badge/C%23-1d2540?style=flat-square&logo=dotnet&logoColor=d4af37" alt="C#"> <img src="https://img.shields.io/github/stars/RatioJuris/TeamViewer-Cleanup-Tool?style=flat-square&labelColor=1d2540&color=c9a227" alt="Stars">
+<img src="https://img.shields.io/badge/Kotlin-1d2540?style=flat-square&logo=kotlin&logoColor=d4af37" alt="Kotlin"> <img src="https://img.shields.io/badge/Android_12+-1d2540?style=flat-square&logo=android&logoColor=d4af37" alt="Android 12+">
 
 </td>
 </tr>
@@ -168,22 +168,15 @@ Removes TeamViewer traces, logs, and registry entries for a clean reinstall.
 
 <img src="./src/images/divider.svg" width="100%" alt="">
 
-## § VII — The Record
+## § VII — Opus Quotidianum
 
 <div align="center">
 
+*Daily work: consumed, and continued.*
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./src/cards/stats-dark.svg">
-  <img height="165" alt="GitHub stats" src="./src/cards/stats-light.svg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./src/cards/top-langs-dark.svg">
-  <img height="165" alt="Top languages" src="./src/cards/top-langs-light.svg">
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RatioJuris&border_radius=6&background=0b1120&border=3a3320&stroke=3a3320&ring=d4af37&fire=d4af37&currStreakNum=efe7d2&sideNums=efe7d2&currStreakLabel=d4af37&sideLabels=efe7d2&dates=8e97ab">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=RatioJuris&border_radius=6&background=fbf8f1&border=e5dcc5&stroke=e5dcc5&ring=8f6b12&fire=8f6b12&currStreakNum=1d2540&sideNums=1d2540&currStreakLabel=8f6b12&sideLabels=1d2540&dates=5a6377">
+  <source media="(prefers-color-scheme: dark)" srcset="./src/cards/snake-dark.svg">
+  <img alt="Contribution graph being eaten by a snake" src="./src/cards/snake-light.svg" width="100%">
 </picture>
 
 </div>
